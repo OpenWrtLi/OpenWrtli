@@ -3,7 +3,7 @@
     <b>I'm <a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA">OpenWrtLi</a> 🎈</b>
 
 <div align="right">
-  <a href="https://op.dllkids.xyz/">
+  <a href="https://lidrive.vip/">
     <img src="https://img.shields.io/badge/2023 haappy new year-ff69b4.svg?style=flat" alt="2023" />
   </a>
 </div>
