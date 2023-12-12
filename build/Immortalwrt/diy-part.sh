@@ -6,7 +6,7 @@
 
 
 # 后台IP设置
-export Ipv4_ipaddr="10.10.0.254"            # 修改openwrt后台地址(填0为关闭)
+export Ipv4_ipaddr="10.0.0.253"            # 修改openwrt后台地址(填0为关闭)
 export Netmask_netm="255.255.255.0"         # IPv4 子网掩码（默认：255.255.255.0）(填0为不作修改)
 export Op_name="Jydn"                # 修改主机名称为OpenWrt-123(填0为不作修改)
 
