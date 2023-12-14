@@ -23,7 +23,7 @@ on:
       CONFIG_FILE:
         description: '请选择配置文件'
         required: true
-        default: 'x86_64'
+        default: 'Jydn'
         type: choice
         options:
           - 'aarch64'
