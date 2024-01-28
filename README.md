@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>I'm <a href="https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA">OpenWrtLi</a> 🎈</b>
+    <b>I'm <a href="https://t.me/openwrtli">OpenWrtLi</a> 🎈</b>
 
 <div align="right">
   <a href="https://lidrive.vip/">
