@@ -159,6 +159,7 @@ CONFIG_PACKAGE_libpython3=y
 CONFIG_PACKAGE_libruby=y
 CONFIG_PACKAGE_libsqlite3=y
 CONFIG_PACKAGE_libstdcpp=y
+CONFIG_PACKAGE_libucl=m
 CONFIG_PACKAGE_libwrap=y
 CONFIG_PACKAGE_libyaml=y
 CONFIG_PACKAGE_libzstd=y
