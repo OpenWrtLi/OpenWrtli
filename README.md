@@ -4,7 +4,7 @@
 
 <div align="right">
   <a href="https://lidrive.vip/">
-    <img src="https://img.shields.io/badge/2024 haappy new year-ff69b4.svg?style=flat" alt="2024" />
+    <img src="https://img.shields.io/badge/2025 haappy new year-ff69b4.svg?style=flat" alt="2024" />
   </a>
 </div>
 
